@@ -5,7 +5,7 @@ def run():
 
 
     print(my_list)
-    print(my_dict)
+
 
 
 
