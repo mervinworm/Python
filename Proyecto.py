@@ -3,11 +3,16 @@ def run():
 
     my_dict = {'uno': 1, 'dos': 2,'tres': 3}
 
+<<<<<<< HEAD
 
     print(my_list)
 
 
 
+=======
+    for name, value  in my_dict.items():
+        print(name, " ", value)
+>>>>>>> python
 
 if __name__ == '__main__':
     run()
