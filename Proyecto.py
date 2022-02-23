@@ -1,5 +1,3 @@
-#HQuiero ver este cambio hecho desde mi MacOS hasta mi PC Windows
-
 def run():
     my_list = [1, 2, 3, 4, 5]
 
