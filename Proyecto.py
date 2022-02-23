@@ -1,4 +1,4 @@
-#Comprobando cambios con un usuario y otro
+#Ahora haremos un cambio desde el usuario de MacOS
 
 def run():
     my_list = [1, 2, 3, 4, 5]
